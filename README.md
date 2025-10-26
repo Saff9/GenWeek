@@ -1,5 +1,31 @@
-# GenWeek
-Enjoy , entertainment 😉.
+# GenWeek 🌿
+
+GenWeek is a social‑feed web app built with **Next.js 15**, **Prisma**, and **NextAuth**, designed to feel mobile‑native with a WhatsApp‑inspired theme.
+
+## 🚀 Features
+- Email login authentication
+- Prisma ORM with Vercel Postgres
+- Feed + Stories + Upload pages
+- Reusable Tailwind UI components
+- Mobile‑first responsive layout
+
+## 🧩 Stack
+- Next.js 15 (App Router)
+- TypeScript + Tailwind CSS v3
+- Prisma ORM + Postgres DB
+- NextAuth v5
+- Zod validation
+
+## 🛠️ Setup
+
+
+
+
+
+
+
+
+
 
 genweek/
 ├── app/
