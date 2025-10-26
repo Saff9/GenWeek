@@ -1,0 +1,15 @@
+{
+  "name": "GenWeek",
+  "short_name": "GenWeek",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#DCF8C6",
+  "theme_color": "#075E54",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
