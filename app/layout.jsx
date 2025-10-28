@@ -6,7 +6,7 @@ export const metadata = {
   description: 'A lightweight social feed demo built with Next.js (app router).',
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head />
